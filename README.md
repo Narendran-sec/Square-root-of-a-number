@@ -30,7 +30,8 @@ sqrt(a,b)
 ```
 
 ## Output:
-![output](/Output.png)
+
+![Output](https://github.com/Narendran-sec/Square-root-of-a-number/assets/147473131/7ac5207d-b3ed-4b69-8bd7-b7189cc0e5b7)
 
 
 ## Result:
